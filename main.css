@@ -11,3 +11,8 @@ color: rgb(218,190,206);
 }
 .hero {
 background-image: url("https://www.google.com/imgres?imgurl=http://img.fifa.com/images/fwwc/2015/players/prt-3/302753.png&imgrefurl=http://www.fifa.com/womensworldcup/players/player%3D302753/index.html&h=309&w=232&tbnid=77bCSbcufc7mHM:&tbnh=186&tbnw=139&usg=__M1MwhLbQ-o1dgkVQVhdFxQ90tTw%3D&vet=10ahUKEwjzz6jAj7_XAhUo94MKHcyOC3wQ_B0IxQEwGg..i&docid=-84m3zAUhBBoFM&itg=1&sa=X&ved=0ahUKEwjzz6jAj7_XAhUo94MKHcyOC3wQ_B0IxQEwGg");
+  background-size: cover;
+  padding: 250px 0;
+	margin: 30px;
+color:#ffffff
+}
